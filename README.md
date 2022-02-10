@@ -5,6 +5,8 @@ Supplementary material for King et al. (2022):
 
 Oliver King, Leigh Fletcher & Nicolas Ligier
 
+[![DOI](https://zenodo.org/badge/456963954.svg)](https://zenodo.org/badge/latestdoi/456963954)
+
 
 ## Description
 Files starting with `reflectance_` provide mapped spectral reflectance data for the VLT/SPHERE and Galileo/NIMS datasets used in this study.
